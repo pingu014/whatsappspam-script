@@ -1,4 +1,6 @@
-# whatsapp-script
+# 🌊 Whatsapp Spam Script
+- Completed On: January 30th 2023
+
 Open source spam script made by me, i'm not responsible for any damage made with this tool. This is just a tool, and the good or bad use of it is up to you
 
 ## How to use the script:
