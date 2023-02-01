@@ -4,7 +4,6 @@
 Open source spam script made by me, i'm not responsible for any damage made with this tool. This is just a tool, and the good or bad use of it is up to you
 
 ## How to use the script:
-### Normal version:
 
 - Go to the [Spam script](whatsapp-script.js) file
 - Copy all the code from the file
